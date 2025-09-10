@@ -1,18 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package pkg3;
 
-/**
- *
- * @author luisd
- */
+
 public class TrabajoPractico {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         //1. Resgistro de Estudiante
         System.out.println("\n1. Registro de Estudiante.");
