@@ -16,6 +16,9 @@ public class Principal {
      */
     public static void main(String[] args) {
         CuentaBancaria cb = new CuentaBancaria();
+        String horario = CuentaBancaria.getHorarioApertura();
+        
+        System.out.println(horario);
          
         cb.mostrarDatos();
         cb.setAlias("CAJA.ROPA.PATO");

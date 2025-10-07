@@ -39,4 +39,7 @@ public class CuentaBancaria {
             saldo -= monto;
         }
     }
+    public static String getHorarioApertura(){
+        return "bobobo";
+    }
 }
